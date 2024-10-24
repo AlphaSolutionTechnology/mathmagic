@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286681738367",
+    "project_id": "mathmagic-d089e",
+    "storage_bucket": "mathmagic-d089e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286681738367:android:ce7a97aef5258f4f02e34a",
+        "android_client_info": {
+          "package_name": "com.mycompany.mathmagic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg_rwbaRBemOHKPAhP_Bk_wJJ4gUs9K_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
